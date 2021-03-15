@@ -1,6 +1,6 @@
 This was originally made for thm/bolt (https://tryhackme.com/room/bolt) room
 because I couldn't find a working poc.
-The python script on exploitdb was broken (no identation, unnecessary stuff)
+The python script on exploitdb was broken (no indentation, unnecessary stuff)
 and the msfconsole one didn't work for me (broke the whole testing environment).
 
 So I made this poc in sh with the use of curl, grep, awk, and sed.
